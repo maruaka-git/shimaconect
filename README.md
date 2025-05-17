@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="web/frontend/public/images/logo.png" alt="しまコネクト ロゴ" width="300">
+</p>
+
 # しまコネクト
 大学の講義にて、学生のみのチームで開発した、手の動きを通じてつながるWebアプリです。
 
