@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="web/frontend/public/images/logo.png" alt="しまコネクト ロゴ" width="300">
+  <img src="web/frontend/public/images/logo.png" alt="しまコネクト ロゴ" >
 </p>
 
 # しまコネクト
