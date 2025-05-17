@@ -1,0 +1,459 @@
+.hand-sign-video-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hand-sign-video-hand-sign-video {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+#sub-menu-main {
+    top: 0;
+    right: 0;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  
+  .sub-menu-sub-menu1 {
+    width: 100%;
+    height: 140px;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(160, 160, 160, 1);
+    border-style: solid;
+    border-bottom-width: 2px;
+    justify-content: center;
+  }
+  
+  .sub-menu-text {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 40px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Noto Sans JP;
+    font-weight: 700;
+    line-height: 100%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
+  .sub-menu-profile {
+    top: 140px;
+    left: 0px;
+    position: absolute;
+    z-index: 60;
+    gap: 16px;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 1);
+    border-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(160, 160, 160, 1);
+    border-bottom-color: rgba(160, 160, 160, 1);
+    border-style: solid;
+    border-bottom-width: 2px;
+    justify-content: center;
+  }
+  
+  .sub-menu-me {
+    display: flex;
+    height: 100%;
+    align-items: center;
+  }
+  
+  .sub-menu-union {
+    width: 53px;
+    height: 58px;
+  }
+  
+  .sub-menu-text02 {
+    color: rgba(0, 0, 0, 1);
+    height: 100%;
+    font-size: 32px;
+    font-style: Medium;
+    text-align: center;
+    font-family: Noto Sans JP;
+    font-weight: 500;
+    line-height: 100%;
+    font-stretch: normal;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .sub-menu-hand-sign-list {
+    top: 260px;
+    left: 0px;
+    position: absolute;
+    z-index: 60;
+    gap: 16px;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(160, 160, 160, 1);
+    border-style: solid;
+    border-bottom-width: 2px;
+    justify-content: center;
+  }
+  
+  .sub-menu-fillablecard {
+    display: flex;
+    padding: 8px 0 0;
+    overflow: hidden;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  
+  .sub-menu-union1 {
+    width: 63px;
+    height: 47px;
+  }
+  
+  .sub-menu-text04 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 32px;
+    font-style: Medium;
+    text-align: center;
+    font-family: Noto Sans JP;
+    font-weight: 500;
+    line-height: 100%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
+  .sub-menu-log-out {
+    top: 380px;
+    left: 0px;
+    position: absolute;
+    z-index: 60;
+    gap: 16px;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(160, 160, 160, 1);
+    border-style: solid;
+    border-bottom-width: 2px;
+    justify-content: center;
+  }
+  
+  .sub-menu-update {
+    display: flex;
+    overflow: hidden;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  
+  .sub-menu-union2 {
+    width: 67px;
+    height: 51px;
+  }
+  
+  .sub-menu-text06 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 32px;
+    font-style: Medium;
+    text-align: center;
+    font-family: Noto Sans JP;
+    font-weight: 500;
+    line-height: 100%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
+  .sub-menu-sign-out {
+    top: 500px;
+    left: 0px;
+    position: absolute;
+    z-index: 60;
+    gap: 16px;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(160, 160, 160, 1);
+    border-style: solid;
+    border-bottom-width: 2px;
+    justify-content: center;
+  }
+  
+  .sub-menu-departure {
+    display: flex;
+    overflow: hidden;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  
+  .sub-menu-union3 {
+    width: 58px;
+    height: 49px;
+  }
+  
+  .sub-menu-text08 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 32px;
+    font-style: Medium;
+    text-align: center;
+    font-family: Noto Sans JP;
+    font-weight: 500;
+    line-height: 100%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
+  .sub-menu-close {
+    width: 49px;
+    height: 49px;
+  }
+  
+  .sub-menu-close-button {
+    top: 45px;
+    left: 48px;
+    position: absolute;
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0);
+  }
+
+.hand-sign-video-header {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 133px;
+    position: fixed;
+    z-index: 20;
+    display: flex;
+    align-self: stretch;
+    align-items: center;
+    flex-direction: column;
+    border-bottom-color: rgba(0, 0, 0, 1);
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+.hand-sign-video-bar-text {
+    display: flex;
+    padding: 0px 40px;
+    align-self: stretch;
+    align-items: flex-start;
+    flex-shrink: 0;
+    justify-content: space-between;
+}
+.hand-sign-video-logo {
+    width: auto;
+    display: flex;
+    padding: 16px 0px;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgba(255, 255, 255, 0);
+}
+.hand-sign-video-image {
+    width: 250px;
+    height: 100px;
+}
+.hand-sign-video-page-title {
+    width: auto;
+    height: 133px;
+    display: flex;
+    padding-right: 100px;
+    align-items: center;
+    align-self: stretch;
+    flex-shrink: 0;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgba(255, 255, 255, 0);
+}
+.hand-sign-video-text {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: center;
+}
+.hand-sign-video-text01 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 40px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Noto Sans JP;
+    font-weight: 700;
+    line-height: 150%;
+    font-stretch: normal;
+    text-decoration: none;
+}
+.hand-sign-video-image1 {
+    width: 100px;
+    height: 73.4px;
+}
+.hand-sign-video-hambirger-menu {
+    width: 94px;
+    height: 133px;
+    display: flex;
+    align-items: flex-start;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: center;
+}
+.hand-sign-video-stacked {
+    gap: 2px;
+    width: 92px;
+    height: 92px;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    flex-direction: column;
+}
+.hand-sign-video-menu {
+    width: 92px;
+    height: 70px;
+    flex-grow: 1;
+    align-self: stretch;
+}
+.hand-sign-video-text03 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 20px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Noto Sans JP;
+    font-weight: 500;
+    line-height: 100%;
+    font-stretch: normal;
+    text-decoration: none;
+}
+.hand-sign-video-main {
+    width: 100%;
+    margin-top: 133px;
+    gap: 40px;
+    display: flex;
+    padding: 50px 0px;
+    overflow: hidden;
+    align-self: stretch;
+    align-items: center;
+    flex-direction: column;
+    flex-shrink: 0;
+    justify-content: center;
+}
+.hand-sign-video-sokuseki{
+    width: 100%;
+    height: auto;
+    gap: 32px;
+    display: flex;
+    overflow: hidden;
+    align-self: stretch;
+    align-items: center;
+    flex-direction: column;
+    flex-shrink: 0;
+    justify-content: center;
+}
+.hand-sign-video-button{
+    width: 320px;
+    height: 44px;
+    padding: 5px 10px;
+    border-color: rgba(0, 0, 0, 1);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hand-sign-video-button-text {
+    color: rgba(0, 0, 0, 1);
+    width: auto;
+    height: auto;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Noto Sans JP;
+    font-weight: 500;
+    line-height: 150%;
+    font-stretch: normal;
+    text-decoration: none;
+    display: flex;
+}
+.hand-sign-video-button1{
+    width: 320px;
+    height: 44px;
+    padding: 5px 10px;
+    border-color: rgba(0, 0, 0, 1);
+    border-radius: 5px;
+    background-color: rgba(200, 200, 200, 1);
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: center;
+}
+.hand-sign-video-textarea{
+    width: 100%;
+    gap: 12px;
+    display: flex;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: center;
+    flex-direction: column;
+}
+.hand-sign-video-textarea1{
+    width: 100%;
+    display: flex;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: center;
+    flex-direction: column;
+}
+.hand-sign-video-text11 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 24px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Noto Sans JP;
+    font-weight: 700;
+    line-height: 150%;
+    font-stretch: normal;
+    text-decoration: none;
+}
+.hand-sign-video-image11{
+    width: 700px;
+}

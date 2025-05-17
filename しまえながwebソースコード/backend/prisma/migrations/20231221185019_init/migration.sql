@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `handsign` ADD COLUMN `category` VARCHAR(191) NOT NULL DEFAULT '',
+    ADD COLUMN `categorySub` VARCHAR(191) NOT NULL DEFAULT '';
