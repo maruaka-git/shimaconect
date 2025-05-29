@@ -4,7 +4,11 @@
 
 # しまコネクト
 
-## 📌 概要
+<h2>
+  <img src="web/frontend/public/images/listShima.jpg" alt="alt text" style="height: 1em; vertical-align: baseline;" />
+  概要
+</h2>
+
 『しまコネクト』は、学生4人のチームで**企画会議から設計・開発まで行ったWebアプリ**です。
 「シマエナガ」＋「コネクト（つながり）」をテーマに、**誰でも気軽にハンドサインを作って投稿・閲覧できる掲示板アプリ**を開発しました。
 
@@ -23,7 +27,11 @@
 
 ---
 
-## 📌 企画背景
+<h2>
+  <img src="web/frontend/public/images/listShima.jpg" alt="alt text" style="height: 1em; vertical-align: baseline;" />
+  企画背景
+</h2>
+
 - 手話は一般的にまだ普及していない
 - 手話には文法・認定などの制約があり、流行語や新しい表現が取り入れづらい
 - 既存の手話翻訳アプリには独創性が少ない
@@ -32,7 +40,10 @@
 
 ---
 
-## 📌 手話とハンドサインの違い
+<h2>
+  <img src="web/frontend/public/images/listShima.jpg" alt="alt text" style="height: 1em; vertical-align: baseline;" />
+  手話とハンドサインの違い
+</h2>
 
 | 項目 | 手話 | ハンドサイン（本アプリで扱う） |
 |------|------|-----------------------------|
@@ -46,7 +57,10 @@
 
 ---
 
-## 📌 『しまコネクト』の機能
+<h2>
+  <img src="web/frontend/public/images/listShima.jpg" alt="alt text" style="height: 1em; vertical-align: baseline;" />
+  『しまコネクト』の機能
+</h2>
 
 - 掲示板（投稿・閲覧・検索・並び替え） 
 - ハンドサインの翻訳
@@ -55,7 +69,10 @@
 
 ---
 
-## 📌 Webアプリ班
+<h2>
+  <img src="web/frontend/public/images/listShima.jpg" alt="alt text" style="height: 1em; vertical-align: baseline;" />
+  Webアプリ班
+</h2>
 
 私はWebアプリ班のフロントエンドエンジニアとして開発に携わり、以下の機能を実装しました：
 - ユーザー登録・ログイン機能（Cookieで有効期限を管理）
@@ -78,7 +95,10 @@
 
 ---
 
-## 📌 画像認識班
+<h2>
+  <img src="web/frontend/public/images/listShima.jpg" alt="alt text" style="height: 1em; vertical-align: baseline;" />
+  画像認識班
+</h2>
 
 - 手の形を認識・データ化する処理を、GoogleのMediaPipeで実装
 - 認識結果の類似度をcos類似度で評価し、誤差を減少
@@ -86,7 +106,10 @@
 
 ---
 
-## 📌 フォルダ構成
+<h2>
+  <img src="web/frontend/public/images/listShima.jpg" alt="alt text" style="height: 1em; vertical-align: baseline;" />
+  フォルダ構成
+</h2>
 
 ```plaintext
 web/
