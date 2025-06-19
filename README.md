@@ -123,3 +123,7 @@ web/
 │   └── uploadVideo/
 
 ※ `.exe`ファイルなど大容量ファイルは GitHub の制限上アップロードしていませんが、『しまコネクト』内でダウンロードできるようになっています。
+
+---
+
+![Image](https://github.com/user-attachments/assets/e9f835eb-9a92-4048-ac49-a629094ac0e4)
