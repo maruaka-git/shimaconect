@@ -119,18 +119,18 @@
       <img src="https://github.com/user-attachments/assets/139926e9-99bc-4154-bf1c-c3c83f1609cb" width="90%" />
     </td>
     <td align="center">
-      <strong>お話ツール画面</strong><br>
-      <img src="https://github.com/user-attachments/assets/a693286f-ee59-44f0-b600-2ebb8401e908" width="90%" />
+      <strong>サブメニュー</strong><br>
+      <img src="https://github.com/user-attachments/assets/d0db92d1-3118-4e44-9a03-bac82011906c" width="90%" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>掲示板画面</strong><br>
-      <img src="https://github.com/user-attachments/assets/d3fe6095-c1fc-46fe-ba48-10f3fbaff75b" width="90%" />
+      <strong>お話ツール画面</strong><br>
+      <img src="https://github.com/user-attachments/assets/a693286f-ee59-44f0-b600-2ebb8401e908" width="90%" />
     </td>
     <td align="center">
-      <strong>サブメニュー</strong><br>
-      <img src="https://github.com/user-attachments/assets/d0db92d1-3118-4e44-9a03-bac82011906c" width="90%" />
+      <strong>掲示板画面</strong><br>
+      <img src="https://github.com/user-attachments/assets/d3fe6095-c1fc-46fe-ba48-10f3fbaff75b" width="90%" />
     </td>
   </tr>
   <tr>
