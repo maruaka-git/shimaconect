@@ -93,7 +93,7 @@
       <img src="https://github.com/user-attachments/assets/11706d5d-3d10-4c05-b3ad-e9955b1607c1" width="90%">
     </td>
   </tr>
-</table>>
+</table>
 
 ---
 
